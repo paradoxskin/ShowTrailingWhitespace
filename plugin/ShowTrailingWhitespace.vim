@@ -46,6 +46,7 @@ augroup END
 
 "- highlight groups ------------------------------------------------------------
 
-highlight def link ShowTrailingWhitespace Error
+" highlight def link ShowTrailingWhitespace Error
+highlight def link ShowTrailingWhitespace StatusLineTerm
 
 " vim: set ts=8 sts=4 sw=4 noexpandtab ff=unix fdm=syntax :
